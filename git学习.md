@@ -3,3 +3,5 @@
 这是在newBranch分支上做的修改.
 这是在master分支上做的修改.
 现在的我在newBranch分支上.
+这是在master分支上做的修改.
+这是在newBranch分支上做的修改.
